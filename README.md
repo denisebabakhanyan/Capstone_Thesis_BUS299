@@ -1,0 +1,5 @@
+**BUS299 - Capstone Thesis (Credits: 3)**
+
+The particular research within the scope of the capstone thesis project of American University of Armenia aims to study the effect of supermarket atmospherics and layout on consumer behavior in Armenia. Different attributes representing both atmospherics and layout have been chosen in order to conduct the analysis and understand whether it affects the overall time spent in a supermarket, their choice, and frequency of visits. Descriptive statistics have been run in order to have an idea about sample profiles for further business decision making. Other than primary data, secondary data has been used in a form of literature and case studies that led to the primary data collection itself. It has been found out that there is a significant relationship between supermarket atmospherics and layout, and consumer behavior.
+Descriptive statistics and data cleaning and structuring have been done using Python, whereas the data analysis itself has been conducted using IBM SPSS Statistics software and Microsoft Excel.
+Keywords: supermarkets, atmospherics, layout, consumer behavior, descriptive research, exploratory research. 
